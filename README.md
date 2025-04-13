@@ -1,7 +1,7 @@
 # 👋 Olá, Sou Endrew!
 
 Sou uma pessoa apaixonada por tecnologia, aprendizado contínuo e sempre em busca de novos desafios. 🚀
-Atualmente, estou cursando faculdade com o objetivo de me tornar um desenvolvedor, e estou focado em desenvolver minhas habilidades em Desenvolvimento Web. 
+Atualmente, estou cursando faculdade com o objetivo de me tornar um desenvolvedor, e estou focado em desenvolver minhas habilidades. 
 
 ## 💻 Sobre mim
 
