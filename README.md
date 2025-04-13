@@ -18,8 +18,8 @@ Atualmente, estou cursando faculdade com o objetivo de me tornar um desenvolvedo
 
 ## 📈 Estatísticas do GitHub
 
-![endrewcarlos-Dev GitHub stats](https://github-readme-stats.vercel.app/api?username=seu-username&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-username&layout=compact&theme=radical)
+![endrewcarlos-Dev GitHub stats](https://github-readme-stats.vercel.app/api?username=endrewcarlos-Dev&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=endrewcarlos-Dev&layout=compact&theme=radical)
 
 ## 🌐 Conecte-se comigo
 
