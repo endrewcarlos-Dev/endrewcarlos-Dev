@@ -7,7 +7,7 @@ Atualmente, estou cursando faculdade com o objetivo de me tornar um desenvolvedo
 
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
 - 📚 Atualmente aprendendo: **Linguagem C**
-- 🧩 Interesses: **Desenvolvimento web, software, projetos open source e aprender coisas novas todos os dias!**
+- 🧩 Interesses: **Desenvolvimento web, projetos open source e aprender coisas novas todos os dias!**
 - 🎯 Objetivo atual: **Me tornar um desenvolvedor full-stack competente e versátil.**
 
 ## 🚀 Tecnologias & Ferramentas (Por enquanto)
